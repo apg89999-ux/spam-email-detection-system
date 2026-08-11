@@ -20,5 +20,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+Live Demo:- 
+https://5twmouswrsp8s5ugcpd9eg.streamlit.app/
+
 ## 👨‍💻 Author
 **Ankan Pramanik**
